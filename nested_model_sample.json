@@ -1,0 +1,19 @@
+{
+  "person": {
+    "first_name": "John",
+    "last_name": "Doe",
+    "age": 31,
+    "gender": "male"
+  },
+  "roles": [
+    {
+      "permissions": [
+        "read",
+        "write",
+        "edit_message"
+      ],
+      "title": "Member"
+    }
+  ],
+  "joined": "2021-08-11T13:37:00"
+}
